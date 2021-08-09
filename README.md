@@ -33,6 +33,5 @@ import DelayButton from 'react-native-delay-button';
 | buttonMessageInactive   | String       |              | Text in the button when the button is not delayed                  |
 | buttonMessageDelayCancel| String       |              | Text when the delayed started                                      |
 | actionOnClick           | Function     |              | The function to execute when the delayed remain time is equal to 0 |
-| DelayTime               | Number       | 0            | Delay seconds to started to execute the actionOnClick Function     |
-| animation               | Boolean      | true         | Animate indicator change                                           |\
+| DelayTime               | Number       | 0            | Delay seconds to started to execute the actionOnClick Function     |\
 
