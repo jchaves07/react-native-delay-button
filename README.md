@@ -1,4 +1,4 @@
-# React-Native-FlatList-Slider
+# React-Native-Delay-Button
 Button with delay execute action.
 
 
