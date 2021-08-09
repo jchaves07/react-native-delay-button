@@ -1,0 +1,30 @@
+{
+  "name": "react-native-delay-button",
+  "version": "1.0.4",
+  "description": "Button with delay execute action.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-vector-icons": "^8.1.0"
+  },
+  "peerDependencies": {
+    "react-native-paper": "^4.8.0",
+    "react-usestateref": "^1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchaves07/react-native-delay-button.git"
+  },
+  "keywords": [
+    "delay-button",
+    "button-delay"
+  ],
+  "author": "Jorge Chaves Ulate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchaves07/react-native-delay-button/issues"
+  },
+  "homepage": "https://github.com/jchaves07/react-native-delay-button#readme"
+}
